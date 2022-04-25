@@ -43,10 +43,7 @@ def password_gen():
         password = password + x
     return password
 
-#Create new user
-def create_user(username,password,credential:Credential):
-    new_user = User(username,password,credential)
-    return new_user
+
 
 #Save user
 def save_user(user):
