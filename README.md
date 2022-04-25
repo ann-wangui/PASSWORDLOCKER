@@ -40,6 +40,11 @@ Shortcode - fc will allow you to search for an account using the account name pr
 Shortcode - ex will allow you to exit the application.
 ## Known Bugs
  There are no known bags
+## Support and Contact DetailS
+Feel free to call me or email me with respective contacts detail:
+
++254743715669
+wanguia822@gmail.com
 
 
 # License
